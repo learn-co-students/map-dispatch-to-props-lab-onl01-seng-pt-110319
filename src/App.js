@@ -2,7 +2,11 @@ import React, { Component } from 'react';
 import RestaurantInput from './components/RestaurantInput';
 import Restaurants from './components/Restaurants';
 
+
+
 export class App extends Component {
+
+  handle
   render() {
     return (
       <div className="App">
